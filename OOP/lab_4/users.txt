@@ -1,0 +1,5 @@
+User #1: Марія (марія@gmail.com)
+User #2: Олександр (олександр@itcollege.lviv.ua)
+User #3: Anonymous (anonymous@itcollege.lviv.ua)
+User #4: Іван (іван@itcollege.lviv.ua)
+User #5: Анна (анна@itcollege.lviv.ua)
